@@ -1,4 +1,3 @@
-# python_gil_comparision
 
 # Python GIL Performance Analysis
 
